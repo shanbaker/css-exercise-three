@@ -55,9 +55,8 @@ nav {
   padding: 15px;
   float: left;
   width: 90%;
-  
 }
 
 .location:hover {
-  color: #0A07A6;
+  background-color: #A9A9AB;
 }
